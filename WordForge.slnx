@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WordForge/WordForge.vcxproj" Id="39bac10f-c040-41b8-8e36-84d63e925bc3" />
+</Solution>
